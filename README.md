@@ -119,8 +119,8 @@ The final visualization is a 2x2 grid layout (with one empty space) containing t
 3.  **Product Performance Comparison:** A multi-line chart comparing Product A and Product B sales, featuring different line styles, colors, and a legend.
 
 ![Business Performance Charts](images/business_performance_charts.png)
-![Business Performance Charts](<img width="4167" height="2951" alt="business_performance_charts" src="https://github.com/user-attachments/assets/2b0cb403-6a52-4652-99c6-cc922a061f61" />
-)
+
+![Business Performance Charts](<img width="4167" height="2951" alt="business_performance_charts" src="https://github.com/user-attachments/assets/2b0cb403-6a52-4652-99c6-cc922a061f61" />)
 
 ## 5. Key Observations
 Based on the visual analysis of the data:
