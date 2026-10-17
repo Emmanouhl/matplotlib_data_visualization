@@ -93,6 +93,50 @@ This repository showcases practical data visualization skills using Matplotlib. 
 
 ---
 
+# Mini Project: Business Performance Visualization
+
+## 1. Business Problem
+A small business owner needs a clear, visual overview of their performance over the last six months. They want to understand revenue trends, customer growth, and how their two main products are performing to make informed, data-driven decisions.
+
+## 2. Project Objectives
+The goal of this project is to transform raw operational data into a structured visual report using Python. Specifically, the project aims to:
+- Create a single figure containing multiple charts.
+- Visualize monthly revenue trends.
+- Visualize customer growth over time.
+- Compare the sales performance of Product A and Product B.
+
+## 3. Dataset Description
+The dataset consists of six months of simulated business data. 
+*   `months`: Reporting period (1 through 6).
+*   `revenue`: Total monthly revenue in Naira.
+*   `customers`: Total number of customers acquired each month.
+*   `product_a` & `product_b`: Monthly sales quantities (units) for each product.
+
+## 4. Tools and Libraries Used
+*   **Python 3**
+*   **Matplotlib:** Used for creating the line charts, styling, and organizing the subplot layout.
+*   **Jupyter Notebook / Google Colab:** Used as the development environment.
+
+## 5. Summary of the Charts Created
+The final visualization is a 2x2 grid layout (with one empty space) containing three distinct charts:
+1.  **Monthly Revenue Trend:** A line chart showing revenue growth over the 6 months.
+2.  **Customer Growth:** A line chart showing the number of customers over the same period.
+3.  **Product Performance Comparison:** A multi-line chart comparing Product A and Product B sales, featuring different line styles, colors, and a legend.
+
+![Business Performance Charts](images/business_performance_charts.png)
+
+## 6. Key Observations
+Based on the visual analysis of the data:
+1.  **General Growth:** Both revenue and customer numbers show a strong upward trend over the six months. Revenue grew by 60% (from 150k to 240k Naira).
+2.  **Correlated Dips:** There was a slight dip in Month 3. The charts reveal that this dip in revenue was accompanied by a dip in the number of customers, suggesting the revenue drop was volume-driven rather than a pricing issue.
+3.  **Product Dominance:** Product A consistently outsold Product B in every single month, indicating it is the primary driver of sales volume.
+
+## 7. Instructions for Running the Notebook
+1. Clone this repository to your local machine.
+2. Ensure you have Python and Matplotlib installed (`pip install matplotlib`).
+3. Open the `business_performance.ipynb` file using Jupyter Notebook or upload it to Google Colab.
+4. Run all cells sequentially to generate the visualization.
+
 ### Mini Project: Business Performance Dashboard
 **Domain:** General Business Analytics
 
@@ -149,6 +193,23 @@ This repository showcases practical data visualization skills using Matplotlib. 
 - Distinguishing correlation from causation
 - Identifying trends, dips, and anomalies
 - Recommending follow-up data collection (marketing spend, AOV, retention)
+
+  ---
+
+  ### Porject Structure
+  matplotlib-visualization-projects/
+│
+├── README.md
+│
+├── Exercise_1_Retail_Sales_Trend.ipynb
+├── Exercise_2_Customer_Acquisition.ipynb
+├── Exercise_3_Healthcare_Dashboard.ipynb
+├── Mini_Project_Business_Dashboard.ipynb
+│
+├── images/
+│   └── business_performance_charts.png
+│
+└── requirements.txt
 
 ---
 
