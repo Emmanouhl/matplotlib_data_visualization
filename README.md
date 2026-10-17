@@ -120,8 +120,6 @@ The final visualization is a 2x2 grid layout (with one empty space) containing t
 
 ![Business Performance Charts](images/business_performance_charts.png)
 
-![Business Performance Charts](<img width="4167" height="2951" alt="business_performance_charts" src="https://github.com/user-attachments/assets/2b0cb403-6a52-4652-99c6-cc922a061f61" />)
-
 ## 5. Key Observations
 Based on the visual analysis of the data:
 1.  **General Growth:** Both revenue and customer numbers show a strong upward trend over the six months. Revenue grew by 60% (from 150k to 240k Naira).
