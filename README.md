@@ -118,7 +118,7 @@ The final visualization is a 2x2 grid layout (with one empty space) containing t
 2.  **Customer Growth:** A line chart showing the number of customers over the same period.
 3.  **Product Performance Comparison:** A multi-line chart comparing Product A and Product B sales, featuring different line styles, colors, and a legend.
 
-![Business Performance Charts](images/business_performance_charts.png)
+
 
 ## 5. Key Observations
 Based on the visual analysis of the data:
