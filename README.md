@@ -112,47 +112,27 @@ The dataset consists of six months of simulated business data.
 *   `customers`: Total number of customers acquired each month.
 *   `product_a` & `product_b`: Monthly sales quantities (units) for each product.
 
-## 4. Tools and Libraries Used
-*   **Python 3**
-*   **Matplotlib:** Used for creating the line charts, styling, and organizing the subplot layout.
-*   **Jupyter Notebook / Google Colab:** Used as the development environment.
-
-## 5. Summary of the Charts Created
+## 4. Summary of the Charts Created
 The final visualization is a 2x2 grid layout (with one empty space) containing three distinct charts:
 1.  **Monthly Revenue Trend:** A line chart showing revenue growth over the 6 months.
 2.  **Customer Growth:** A line chart showing the number of customers over the same period.
 3.  **Product Performance Comparison:** A multi-line chart comparing Product A and Product B sales, featuring different line styles, colors, and a legend.
 
 ![Business Performance Charts](images/business_performance_charts.png)
+![Business Performance Charts](<img width="4167" height="2951" alt="business_performance_charts" src="https://github.com/user-attachments/assets/2b0cb403-6a52-4652-99c6-cc922a061f61" />
+)
 
-## 6. Key Observations
+## 5. Key Observations
 Based on the visual analysis of the data:
 1.  **General Growth:** Both revenue and customer numbers show a strong upward trend over the six months. Revenue grew by 60% (from 150k to 240k Naira).
 2.  **Correlated Dips:** There was a slight dip in Month 3. The charts reveal that this dip in revenue was accompanied by a dip in the number of customers, suggesting the revenue drop was volume-driven rather than a pricing issue.
 3.  **Product Dominance:** Product A consistently outsold Product B in every single month, indicating it is the primary driver of sales volume.
 
-## 7. Instructions for Running the Notebook
+## 6. Instructions for Running the Notebook
 1. Clone this repository to your local machine.
 2. Ensure you have Python and Matplotlib installed (`pip install matplotlib`).
 3. Open the `business_performance.ipynb` file using Jupyter Notebook or upload it to Google Colab.
 4. Run all cells sequentially to generate the visualization.
-
-### Mini Project: Business Performance Dashboard
-**Domain:** General Business Analytics
-
-**Objective:** Build a comprehensive 2×2 dashboard summarizing key business metrics.
-
-**Key Tasks:**
-- Created a 2×2 grid layout with a master title (`fig.suptitle`)
-- Plotted revenue, customer growth, and product comparison charts
-- Used `axes[row, column]` indexing for precise placement
-- Saved the dashboard as a high-resolution PNG (300 DPI)
-
-**Key Insights:**
-- Revenue grew from ₦150,000 to ₦240,000 (60% growth)
-- Customer count doubled from 80 to 140
-- Product A consistently outsold Product B every month
-- Month 3 dip in both revenue and customers suggests customer-driven, not pricing-driven
 
 ---
 
