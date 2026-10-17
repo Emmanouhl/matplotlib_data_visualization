@@ -1,4 +1,4 @@
-# Matplotlib Data Visualization Projects
+<img width="1028" height="642" alt="m1" src="https://github.com/user-attachments/assets/bf1e4bad-b6d2-47ff-ad48-2b60061e9920" /># Matplotlib Data Visualization Projects
 
 A collection of hands-on data visualization exercises using **Python** and **Matplotlib**. This repository demonstrates practical charting techniques applied to real-world business scenarios across retail, marketing, healthcare, and general business analytics.
 
@@ -134,6 +134,7 @@ Based on the visual analysis of the data:
 
 ---
 
+
 ## Technologies Used
 
 | Technology | Purpose |
@@ -141,6 +142,18 @@ Based on the visual analysis of the data:
 | **Python 3.13** | Programming language |
 | **Matplotlib** | Data visualization and charting |
 | **Jupyter Notebook** | Interactive development environment |
+
+---
+
+## Sample Output
+
+<img width="1028" height="642" alt="m1" src="https://github.com/user-attachments/assets/f0070dd7-1943-4a63-b53a-25bd348e4a77" />
+<img width="971" height="564" alt="m2" src="https://github.com/user-attachments/assets/6eb639f6-23b4-4666-967a-c38aa26b21c5" />
+<img width="999" height="511" alt="m3" src="https://github.com/user-attachments/assets/ce676ceb-71ae-4323-9f11-95b114d25fe6" />
+<img width="972" height="567" alt="m4" src="https://github.com/user-attachments/assets/f62bb1b2-ba6e-4889-91ca-d5ef0c1f8ca2" />
+<img width="985" height="569" alt="m5" src="https://github.com/user-attachments/assets/8f8de888-8129-4c71-87ab-29a853175ff5" />
+<img width="971" height="560" alt="m6" src="https://github.com/user-attachments/assets/6a970877-613d-4718-8c8a-0f248eab2c69" />
+
 
 ---
 
@@ -208,6 +221,9 @@ Based on the visual analysis of the data:
 ```bash
 git clone https://github.com/yourusername/matplotlib-visualization-projects.git
 cd matplotlib-visualization-projects
+
+---
+
 
 Author
 
