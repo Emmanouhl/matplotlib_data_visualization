@@ -1,4 +1,4 @@
-<img width="1028" height="642" alt="m1" src="https://github.com/user-attachments/assets/bf1e4bad-b6d2-47ff-ad48-2b60061e9920" /># Matplotlib Data Visualization Projects
+# Matplotlib Data Visualization Projects
 
 A collection of hands-on data visualization exercises using **Python** and **Matplotlib**. This repository demonstrates practical charting techniques applied to real-world business scenarios across retail, marketing, healthcare, and general business analytics.
 
