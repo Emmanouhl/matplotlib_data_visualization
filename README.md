@@ -175,10 +175,12 @@ Based on the visual analysis of the data:
   ---
 
   ### Porject Structure
-  matplotlib-visualization-projects/ 
+  matplotlib-visualization-projects/
+   
 │
 
 ├── README.md
+
 │
 
 ├── Exercise_1_Retail_Sales_Trend.ipynb
@@ -188,10 +190,13 @@ Based on the visual analysis of the data:
 ├── Exercise_3_Healthcare_Dashboard.ipynb
 
 ├── Mini_Project_Business_Dashboard.ipynb
+
 │
 
 ├── images/
+
 │   └── business_performance_charts.png
+
 │
 └── requirements.txt
 
@@ -203,3 +208,29 @@ Based on the visual analysis of the data:
 ```bash
 git clone https://github.com/yourusername/matplotlib-visualization-projects.git
 cd matplotlib-visualization-projects
+
+Author
+
+Mustapha Emmanuel Oladeji
+
+📧 Email: [mustaphaemmanuelola@gmail.com]
+🔗 LinkedIn: [https://linkedin.com/in/mustaphaemmanouelola]
+🐙 GitHub: [https://github.com/Emmanouhl]
+
+---
+
+Acknowledgments
+
+This project was completed as part of the Python Study Group – Lesson 19: Matplotlib hands-on practice.
+
+---
+
+License
+
+This project is open for educational and portfolio purposes.
+
+---
+
+Built with Matplotlib – Turning raw data into business intelligence.
+
+Happy Analyzing!
