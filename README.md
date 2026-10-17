@@ -176,9 +176,13 @@ Based on the visual analysis of the data:
 
   ### Porject Structure
   matplotlib-visualization-projects/
+  
 │
+
 ├── README.md
+
 │
+
 ├── Exercise_1_Retail_Sales_Trend.ipynb
 ├── Exercise_2_Customer_Acquisition.ipynb
 ├── Exercise_3_Healthcare_Dashboard.ipynb
